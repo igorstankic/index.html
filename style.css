@@ -1,0 +1,68 @@
+body{
+	 margin-bottom:50px;
+}
+
+footer{
+	   position: fixed;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+	font-size: 1.2rem;
+	color: #2c3e50;
+}
+
+.dragon {
+	outline: none;
+  border: 10px solid #2c3e50;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #2c3e50;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 180px;
+  height: 190px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  cursor: pointer;
+}
+
+
+
+.w{
+	background-image: url("images/t-rex.png")
+}
+
+.a{
+	background-image: url("images/spinosaurus.jpg")
+}
+
+.s{
+	background-image: url("images/pterodaktil.jpg")
+}
+
+.d{
+	background-image: url("images/dugovrati.jpg")
+}
+
+.e{
+	background-image: url("images/dragon.jpg")
+}
+
+
+*{
+	text-align: center;
+}
+
+#dino{
+	font-size: 5rem;
+	color: #2c3e50;
+	text-shadow: 3px 3px grey;
+	margin-bottom: 100px;
+}
+
